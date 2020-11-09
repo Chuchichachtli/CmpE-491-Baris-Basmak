@@ -50,7 +50,7 @@ CmpE 491 Federated ML for Covid-19
 ###### Plans for the upcoming week
 -------------------
 * Search for Covid-19 Databases that can be used. 
- * https://arxiv.org/pdf/2009.10401.pdf
+  * https://arxiv.org/pdf/2009.10401.pdf
 * Read at least 3 papers about Federated Learning
 * Practice more with tensor flow federated:  
   * with more complex models
