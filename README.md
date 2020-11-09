@@ -42,5 +42,16 @@ CmpE 491 Federated ML for Covid-19
 * I'm planning on getting more Familiar with TensorFlow by watching tutorials and making small models.
 * After learning more about TensorFlow, I'm planning on familiarizing myself more with Tensor Flow Federated and making the model for MNIST (or maybe CIFAR) image classification from scratch.
 * I'm planning on reading more articles about Federated Learning.
+###### 03.11.2020 - 09.11.2020 Done
+----------------
+* Learned aobut TensorFlow and TensorFlow Federated
+* Worked on basic CIFAR10 model: https://colab.research.google.com/drive/1NFW_YXpptkM6O0lZ-xQN-PE7DOjo1k2M#scrollTo=DFSsHIeEV9k8
 
+###### Plans for the upcoming week
+-------------------
+* Search for Covid-19 Databases that can be used.
+* Read at least 3 papers about Federated Learning
+* Practice more with tensor flow federated:  
+  * with more complex models
+  * with different datasets
 
