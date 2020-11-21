@@ -55,4 +55,24 @@ CmpE 491 Federated ML for Covid-19
 * Practice more with tensor flow federated:  
   * with more complex models
   * with different datasets
+  
+  ###### 09.11.2020 - 16.11.2020 Done
+----------------
+* Implemented a Client Server architecture from scratch using keras, tf and python.
+* Briefly searched for databases that could be used for the project: Federated Learning for Covid-19.
+  * https://arxiv.org/pdf/2009.10401.pdf
 
+###### Plans for the upcoming week
+-------------------
+* Implement a deeper model using ResNet or similar architecture.
+* Learn more about TFF since the client-server architecture I implemented has overhead when distributing the model weights and reduces speed.
+* Literature scan for `layer specific training` using Federated Learning.
+
+###### 16.11.2020 - 23.11.2020
+--------------------------------------
+* Read the paper : https://www.researchgate.net/publication/339880491_Averaging_Is_Probably_Not_the_Optimum_Way_of_Aggregating_Parameters_in_Federated_Learning/fulltext/5e6a2cde92851c20f322812c/Averaging-Is-Probably-Not-the-Optimum-Way-of-Aggregating-Parameters-in-Federated-Learning.pdf
+* Read the paper : 
+https://arxiv.org/pdf/1905.06641.pdf
+* Tried to get more insight about using TensorFlow Federated
+
+  
