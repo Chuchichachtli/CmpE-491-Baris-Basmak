@@ -70,9 +70,12 @@ CmpE 491 Federated ML for Covid-19
 
 ###### 16.11.2020 - 23.11.2020
 --------------------------------------
-* Read the paper : https://www.researchgate.net/publication/339880491_Averaging_Is_Probably_Not_the_Optimum_Way_of_Aggregating_Parameters_in_Federated_Learning/fulltext/5e6a2cde92851c20f322812c/Averaging-Is-Probably-Not-the-Optimum-Way-of-Aggregating-Parameters-in-Federated-Learning.pdf
-* Read the paper : 
+* Read the paper :Averaging_Is_Probably_Not_the_Optimum_Way_of_Aggregating_Parameters_in_Federated_Learning https://www.researchgate.net/publication/339880491_Averaging_Is_Probably_Not_the_Optimum_Way_of_Aggregating_Parameters_in_Federated_Learning/fulltext/5e6a2cde92851c20f322812c/Averaging-Is-Probably-Not-the-Optimum-Way-of-Aggregating-Parameters-in-Federated-Learning.pdf
+* Read the paper : Client-Edge-Cloud Hierarchical Federated Learning
 https://arxiv.org/pdf/1905.06641.pdf
+Read the paper:Dynamic FL
+https://www.researchgate.net/publication/339399233
+Read a paper about Coded Federated Learning
 * Tried to get more insight about using TensorFlow Federated
 
   
